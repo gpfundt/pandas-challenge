@@ -3,7 +3,7 @@
 in this project I used the Pandas library to analyze school district data.
 
 From the CSVs containing district standardized test results as well as every student's math/reading scores and various information on the schools they attend I determine the following:
-
+```
 **District Summary**
 Metrics include:
   Total Schools
@@ -36,3 +36,4 @@ Metrics include:
   Scores by School Spending -School performance break down based on average Spending Ranges (Per Student). 
   Scores by School Size -School performance break down based on school size. 
   Scores by School Type -School performance break down based on school type Charter vs. District).
+  ```
